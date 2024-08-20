@@ -1,0 +1,21 @@
+D:\bai tap visul hk3\2212390_DNTKhanh\2212390_DNTKhanh_48\bin\Debug\2212390_DNTKhanh_48.exe.config
+D:\bai tap visul hk3\2212390_DNTKhanh\2212390_DNTKhanh_48\bin\Debug\2212390_DNTKhanh_48.exe
+D:\bai tap visul hk3\2212390_DNTKhanh\2212390_DNTKhanh_48\bin\Debug\2212390_DNTKhanh_48.pdb
+D:\bai tap visul hk3\2212390_DNTKhanh\2212390_DNTKhanh_48\obj\Debug\2212390_DNTKhanh_48.csproj.AssemblyReference.cache
+D:\bai tap visul hk3\2212390_DNTKhanh\2212390_DNTKhanh_48\obj\Debug\2212390_DNTKhanh_48.csproj.SuggestedBindingRedirects.cache
+D:\bai tap visul hk3\2212390_DNTKhanh\2212390_DNTKhanh_48\obj\Debug\_2212390_DNTKhanh_48.fComboBox.resources
+D:\bai tap visul hk3\2212390_DNTKhanh\2212390_DNTKhanh_48\obj\Debug\_2212390_DNTKhanh_48.Properties.Resources.resources
+D:\bai tap visul hk3\2212390_DNTKhanh\2212390_DNTKhanh_48\obj\Debug\2212390_DNTKhanh_48.csproj.GenerateResource.cache
+D:\bai tap visul hk3\2212390_DNTKhanh\2212390_DNTKhanh_48\obj\Debug\2212390_DNTKhanh_48.csproj.CoreCompileInputs.cache
+D:\bai tap visul hk3\2212390_DNTKhanh\2212390_DNTKhanh_48\obj\Debug\2212390_DNTKhanh_48.exe
+D:\bai tap visul hk3\2212390_DNTKhanh\2212390_DNTKhanh_48\obj\Debug\2212390_DNTKhanh_48.pdb
+C:\Users\PC602\Downloads\Phát triển desktop\2212390_DNTKhanh\2212390_DNTKhanh_48\bin\Debug\2212390_DNTKhanh_48.exe.config
+C:\Users\PC602\Downloads\Phát triển desktop\2212390_DNTKhanh\2212390_DNTKhanh_48\bin\Debug\2212390_DNTKhanh_48.exe
+C:\Users\PC602\Downloads\Phát triển desktop\2212390_DNTKhanh\2212390_DNTKhanh_48\bin\Debug\2212390_DNTKhanh_48.pdb
+C:\Users\PC602\Downloads\Phát triển desktop\2212390_DNTKhanh\2212390_DNTKhanh_48\obj\Debug\2212390_DNTKhanh_48.csproj.AssemblyReference.cache
+C:\Users\PC602\Downloads\Phát triển desktop\2212390_DNTKhanh\2212390_DNTKhanh_48\obj\Debug\_2212390_DNTKhanh_48.fComboBox.resources
+C:\Users\PC602\Downloads\Phát triển desktop\2212390_DNTKhanh\2212390_DNTKhanh_48\obj\Debug\_2212390_DNTKhanh_48.Properties.Resources.resources
+C:\Users\PC602\Downloads\Phát triển desktop\2212390_DNTKhanh\2212390_DNTKhanh_48\obj\Debug\2212390_DNTKhanh_48.csproj.GenerateResource.cache
+C:\Users\PC602\Downloads\Phát triển desktop\2212390_DNTKhanh\2212390_DNTKhanh_48\obj\Debug\2212390_DNTKhanh_48.csproj.CoreCompileInputs.cache
+C:\Users\PC602\Downloads\Phát triển desktop\2212390_DNTKhanh\2212390_DNTKhanh_48\obj\Debug\2212390_DNTKhanh_48.exe
+C:\Users\PC602\Downloads\Phát triển desktop\2212390_DNTKhanh\2212390_DNTKhanh_48\obj\Debug\2212390_DNTKhanh_48.pdb

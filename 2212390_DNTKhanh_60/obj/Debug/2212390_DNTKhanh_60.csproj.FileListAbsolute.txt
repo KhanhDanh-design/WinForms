@@ -1,0 +1,10 @@
+C:\Users\PC602\Downloads\Phát triển desktop\2212390_DNTKhanh\2212390_DNTKhanh_60\bin\Debug\2212390_DNTKhanh_60.exe.config
+C:\Users\PC602\Downloads\Phát triển desktop\2212390_DNTKhanh\2212390_DNTKhanh_60\bin\Debug\2212390_DNTKhanh_60.exe
+C:\Users\PC602\Downloads\Phát triển desktop\2212390_DNTKhanh\2212390_DNTKhanh_60\bin\Debug\2212390_DNTKhanh_60.pdb
+C:\Users\PC602\Downloads\Phát triển desktop\2212390_DNTKhanh\2212390_DNTKhanh_60\obj\Debug\2212390_DNTKhanh_60.csproj.AssemblyReference.cache
+C:\Users\PC602\Downloads\Phát triển desktop\2212390_DNTKhanh\2212390_DNTKhanh_60\obj\Debug\_2212390_DNTKhanh_60.CheckListBox.resources
+C:\Users\PC602\Downloads\Phát triển desktop\2212390_DNTKhanh\2212390_DNTKhanh_60\obj\Debug\_2212390_DNTKhanh_60.Properties.Resources.resources
+C:\Users\PC602\Downloads\Phát triển desktop\2212390_DNTKhanh\2212390_DNTKhanh_60\obj\Debug\2212390_DNTKhanh_60.csproj.GenerateResource.cache
+C:\Users\PC602\Downloads\Phát triển desktop\2212390_DNTKhanh\2212390_DNTKhanh_60\obj\Debug\2212390_DNTKhanh_60.csproj.CoreCompileInputs.cache
+C:\Users\PC602\Downloads\Phát triển desktop\2212390_DNTKhanh\2212390_DNTKhanh_60\obj\Debug\2212390_DNTKhanh_60.exe
+C:\Users\PC602\Downloads\Phát triển desktop\2212390_DNTKhanh\2212390_DNTKhanh_60\obj\Debug\2212390_DNTKhanh_60.pdb
